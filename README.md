@@ -1,4 +1,23 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
+
+class Developer:
+
+    def __init__(self):
+        self.name = "Yashika Gumber"
+        self.age = 21
+        self.location = "Gurugram, India"
+        self.programming_languages = ["Python","C++", "Java"]
+        self.interests = ['music', 'spirituality']
+
+    def about(self):
+        print("Hey! I am Yashika Gumber. I love to build and Automate stuff!")
+
+
+if __name__ == '__main__':
+    me = Developer()
+    me.about()
 
 ### Namaste!!  
 <div align="center">
