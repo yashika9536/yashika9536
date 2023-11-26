@@ -2,7 +2,7 @@
 
 ### Namaste!!  
 <div align="center">
-<img src="https://dribbble.com/shots/4739771-GitLab-Auto-DevOps?utm_source=Clipboard_Shot&utm_campaign=jareko999&utm_content=GitLab%20Auto%20DevOps&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=jareko999&utm_content=GitLab%20Auto%20DevOps&utm_medium=Social_Share" align="center" style="width: 100%" />
+
 </div>  
   
 
